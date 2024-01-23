@@ -10,7 +10,6 @@
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-<<<<<<< HEAD
 ###List
 - [ ] 10 commits
 - [ ] 3 files
@@ -20,5 +19,4 @@
 - [ ] 100836560_sdlc.txt ( 20 Points )
 - [ ] Update your local Branch (PULL) from remote git repo
 - [ ] Update main/self README ?
-=======
->>>>>>> ca03985114ef8b569ef38ea4948c1f86c3695589
+
