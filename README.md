@@ -16,28 +16,28 @@ git commit
 _______________________________________________
 # [Assignment Details (COMP2156_DevOps_GroupAssignment.pdf)]
 
-[x] Create Our Group REPO
-[ ] Add member
+- [x] Create Our Group REPO
+- [ ] Add member
     - [ ]Member clone REPO on their local system
 
 ## Tasks
-[ ] All member create own branch **STUDENTID-Name**
-[ ] Member need to make >= 10 commits
-[ ] 3 files with appropriate commit message
+- [ ] All member create own branch **STUDENTID-Name**
+- [ ] Member need to make >= 10 commits
+- [ ] 3 files with appropriate commit message
     - [ ]*Studentid_gb.txt* info about GBC with content
     - [ ]*Studentid_devops.txt* info about COMP 2156 DevOps course with content
     - [ ]*Studentid_sdlc.txt* important of learning
 DevOps engineer in software development cycle with content
-[ ]Update local branch **(PULL)** 
+- [ ]Update local branch **(PULL)** 
     - [ ] All members branch are merged
     - [ ] Resolve all merge conflict
-[ ] Update **_README.md_**
+- [ ] Update **_README.md_**
 
 **[x] uploaded #Pull Request Template**
 _____________________________________-
 # Submission
-[ ] Provide This REPO Link in submission folder
-[ ] Upload screenshot 
+- [ ] Provide This REPO Link in submission folder
+- [ ] Upload screenshot 
     - shows your work for local
     - shows your git commit list
 
@@ -47,4 +47,8 @@ No commits or file changes/upload are allowed directly on GitHub website.
 All commits must be done on local machine of each member should merge their branch to main/master branch
 
 
+<<<<<<< HEAD
 # YAY Done
+=======
+# YAY Done
+>>>>>>> ca03985114ef8b569ef38ea4948c1f86c3695589
