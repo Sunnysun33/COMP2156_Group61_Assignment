@@ -33,9 +33,7 @@ DevOps engineer in software development cycle with content
     - [ ] Resolve all merge conflict
 [ ] Update **_README.md_**
 
-**[ ] Create #Pull Request Template** --> [LINK( https://docs.github.com/en/communities/using-
-templates-to-encourage-useful-issues-and-pull-requests/creating-a-
-pull-request-template-for-your-repository)]
+**[x] uploaded #Pull Request Template**
 _____________________________________-
 # Submission
 [ ] Provide This REPO Link in submission folder
@@ -49,4 +47,4 @@ No commits or file changes/upload are allowed directly on GitHub website.
 All commits must be done on local machine of each member should merge their branch to main/master branch
 
 
-# YAY Done :satisfied:
+# YAY Done
