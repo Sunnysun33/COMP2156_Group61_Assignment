@@ -3,7 +3,7 @@
 **GROUP777_ASSIGNMENT_1**
 
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -11,7 +11,7 @@
    git clone https://github.com/your-username/your-repo.git
 
 <<<<<<< HEAD
-##List
+###List
 - [ ] 10 commits
 - [ ] 3 files
 - [x] Branch
