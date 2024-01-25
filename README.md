@@ -1,5 +1,5 @@
 `#FFA500`
-# COMP2156_Group777_Assignment
+# COMP2156_Group61_Assignment
 This REPO is create for class 2156 assignment1
 ________________________________________________
 # Readme File:
@@ -47,8 +47,4 @@ No commits or file changes/upload are allowed directly on GitHub website.
 All commits must be done on local machine of each member should merge their branch to main/master branch
 
 
-<<<<<<< HEAD
 # YAY Done
-=======
-# YAY Done
->>>>>>> ca03985114ef8b569ef38ea4948c1f86c3695589

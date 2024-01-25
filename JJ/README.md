@@ -12,7 +12,7 @@
 
 ### List
 - [ ] 10 commits
-- [ ] 3 files
+- [x] 3 files
 - [x] Branch
 - [ ] 100936560_gb.txt ( 20 Points )
 - [ ] 100836560_devops.txt ( 20 Points )
