@@ -1,6 +1,3 @@
-This file will contain details about important of learning DevOps enginner in osftware development cycle.
-Think of your own content.
-
-Im not sure what is important learning DevOps engineer. Maybe you gotta do lots of reading, be patient if something
-doesn't work.
+Im not sure what is important to learning DevOps engineer. Maybe you gotta do lots of reading, be patient if something
+doesn't work. Drink milk, who knows.
 
