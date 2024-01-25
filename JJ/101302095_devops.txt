@@ -1,1 +1,5 @@
-# some content
+Just vibing with GitHub, 
+you know? 
+Learned the comments of sharing and cloning with 
+'git clone', 'git add', 'git commit', and  'git pull/push'
+It's like sharing a playlist, but for code.
