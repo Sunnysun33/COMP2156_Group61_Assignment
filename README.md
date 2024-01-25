@@ -1,5 +1,5 @@
 `#FFA500`
-# COMP2156_Group777_Assignment
+# COMP2156_Group61_Assignment
 This REPO is create for class 2156 assignment1
 ________________________________________________
 # Readme File:
@@ -33,9 +33,7 @@ DevOps engineer in software development cycle with content
     - [ ] Resolve all merge conflict
 - [ ] Update **_README.md_**
 
-**[ ] Create #Pull Request Template** --> [LINK( https://docs.github.com/en/communities/using-
-templates-to-encourage-useful-issues-and-pull-requests/creating-a-
-pull-request-template-for-your-repository)]
+**[x] uploaded #Pull Request Template**
 _____________________________________-
 # Submission
 - [ ] Provide This REPO Link in submission folder
