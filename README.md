@@ -37,7 +37,9 @@ _______________________________________________
     - [ ] Resolve all merge conflict
 - [ ] Update **_README.md_**
 
-**- [x] uploaded #Pull Request Template**
+
+- [x] Uploaded #Pull Request Template
+
 _____________________________________
 # Submission
 - [ ] Provide This REPO Link in submission folder
@@ -51,4 +53,5 @@ No commits or file changes/upload are allowed directly on GitHub website.
 All commits must be done on local machine of each member should merge their branch to main/master branch
 
 
-# YAY Done
+# YAY Done - JJ
+# Done - CL
