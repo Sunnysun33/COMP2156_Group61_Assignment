@@ -23,7 +23,7 @@ _______________________________________________
 
 - [x] Create Our Group REPO
 - [x] Add member
-    - [x]Member clone REPO on their local system
+    - [x] Member clone REPO on their local system
 
 ## Tasks
 - [x] All member create own branch **STUDENTID-Name**
@@ -37,7 +37,7 @@ _______________________________________________
     - [ ] Resolve all merge conflict
 - [ ] Update **_README.md_**
 
-**[x] uploaded #Pull Request Template**
+- **[x] uploaded #Pull Request Template**
 _____________________________________
 # Submission
 - [ ] Provide This REPO Link in submission folder
