@@ -23,23 +23,24 @@ _______________________________________________
 
 - [x] Create Our Group REPO
 - [x] Add member
-    - [x]Member clone REPO on their local system
+    - [x] Member clone REPO on their local system
 
 ## Tasks
 - [x] All member create own branch **STUDENTID-Name**
 - [ ] Member need to make >= 10 commits
 - [ ] 3 files with appropriate commit message
-    - [ ]*Studentid_gb.txt* info about GBC with content
-    - [ ]*Studentid_devops.txt* info about COMP 2156 DevOps course with content
-    - [ ]*Studentid_sdlc.txt* important of learning
-DevOps engineer in software development cycle with content
-- [ ]Update local branch **(PULL)** 
+    - [ ] *Studentid_gb.txt* info about GBC with content
+    - [ ] *Studentid_devops.txt* info about COMP 2156 DevOps course with content
+    - [ ] *Studentid_sdlc.txt* important of learning DevOps engineer in software development cycle with content
+- [ ] Update local branch **(PULL)** 
     - [ ] All members branch are merged
     - [ ] Resolve all merge conflict
 - [ ] Update **_README.md_**
 
-**[x] uploaded #Pull Request Template**
-_____________________________________-
+
+- [x] Uploaded #Pull Request Template
+
+_____________________________________
 # Submission
 - [ ] Provide This REPO Link in submission folder
 - [ ] Upload screenshot 
@@ -52,4 +53,5 @@ No commits or file changes/upload are allowed directly on GitHub website.
 All commits must be done on local machine of each member should merge their branch to main/master branch
 
 
-# YAY Done
+# YAY Done - JJ
+# Done - CL
