@@ -29,14 +29,14 @@ _______________________________________________
 - [x] All member create own branch **STUDENTID-Name**
 - [ ] Member need to make >= 10 commits
 - [ ] 3 files with appropriate commit message
-	- [ ]*Studentid_gb.txt* info about GBC with content
-	- [ ]*Studentid_devops.txt* info about COMP 2156 DevOps course with content
-	- [ ]*Studentid_sdlc.txt* important of learning
+    - [ ]*Studentid_gb.txt* info about GBC with content
+    - [ ]*Studentid_devops.txt* info about COMP 2156 DevOps course with content
+    - [ ]*Studentid_sdlc.txt* important of learning
 DevOps engineer in software development cycle with content
 
 - [ ]Update local branch **(PULL)** 
-	- [ ] All members branch are merged
-	- [ ] Resolve all merge conflict
+    - [ ] All members branch are merged
+    - [ ] Resolve all merge conflict
 - [ ] Update **_README.md_**
 
 **[x] uploaded #Pull Request Template**
