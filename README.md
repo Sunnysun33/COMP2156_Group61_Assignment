@@ -37,7 +37,7 @@ _______________________________________________
     - [ ] Resolve all merge conflict
 - [ ] Update **_README.md_**
 
-- **[x] uploaded #Pull Request Template**
+**- [x] uploaded #Pull Request Template**
 _____________________________________
 # Submission
 - [ ] Provide This REPO Link in submission folder
