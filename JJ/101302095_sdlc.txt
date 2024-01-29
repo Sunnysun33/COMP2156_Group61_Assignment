@@ -1,1 +1,3 @@
-# Some content
+DevOps encompasses a variety of practices, principles, 
+and cultural approaches focused on enhancing collaboration 
+and communication between software development and IT operations teams.
