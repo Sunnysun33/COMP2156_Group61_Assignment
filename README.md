@@ -10,18 +10,23 @@ ________________________________________________
 Some basic Git commands are:
 ```
 git status
-git add
+git add .
 git commit
+git push/pull origin <branchname>
+```
+```
+git remote add origin <GitHub_repo_url>
+git fetch origin 
 ```
 _______________________________________________
 # [Assignment Details (COMP2156_DevOps_GroupAssignment.pdf)]
 
 - [x] Create Our Group REPO
-- [ ] Add member
-    - [ ]Member clone REPO on their local system
+- [x] Add member
+    - [x]Member clone REPO on their local system
 
 ## Tasks
-- [ ] All member create own branch **STUDENTID-Name**
+- [x] All member create own branch **STUDENTID-Name**
 - [ ] Member need to make >= 10 commits
 - [ ] 3 files with appropriate commit message
     - [ ]*Studentid_gb.txt* info about GBC with content
