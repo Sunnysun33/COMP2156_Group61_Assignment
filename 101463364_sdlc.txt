@@ -1,1 +1,2 @@
 Learning DevOps engineering is crucial in modern software development cycles 
+Devops is about automation and efficiency. We do the testing, deployment automatically.
