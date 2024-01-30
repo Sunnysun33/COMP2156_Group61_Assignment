@@ -4,3 +4,4 @@ Each of them responsible for different part of project.
 Everyone of them upload or change the code from time to time while the marketing may receive some feedback from the client.
 With Devops, the process of finishing the project will be easier. 
 At least, everybody can work at the same time and see the feedback right away.
+Since I am a student, I am looking forward to what DevOps can help to finish a project.
