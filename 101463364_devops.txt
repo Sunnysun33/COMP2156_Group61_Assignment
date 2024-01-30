@@ -1,1 +1,3 @@
 In a project with so many people working together, there must be not easy.
+Imagine there are more than 10 engineer working in the same project. 
+Each of them responsible for different part of project.
