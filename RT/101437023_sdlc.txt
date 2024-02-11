@@ -1,1 +1,5 @@
-check
+DevOps stramlines software developments by making collaboration between development 
+and operations teams.
+It can ensure continuous integration and delivery, and aoutmate processes.
+Also, it can result in faster deployment, improve quality and increase efficiency.
+
