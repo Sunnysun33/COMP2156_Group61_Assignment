@@ -25,12 +25,13 @@
 
 6. Feb 11th update pull from branch main
 
-### List
-- [x] 10 commits
-- [x] 3 files
-- [x] Branch
-- [x] 100936560_gb.txt ( 20 Points )
-- [x] 100836560_devops.txt ( 20 Points )
-- [x] 100836560_sdlc.txt ( 20 Points )
-- [x] Update your local Branch (PULL) from remote git repo
-- [x] Update main/self README ?
+```bash
+	### List
+	[x] 10 commits
+	[x] 3 files
+	[x] Branch
+	[x] 100936560_gb.txt ( 20 Points )
+	[x] 100836560_devops.txt ( 20 Points )
+	[x] 100836560_sdlc.txt ( 20 Points )
+	[x] Update your local Branch (PULL) from remote git repo
+	[x] Update main/self README
